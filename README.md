@@ -9,3 +9,5 @@ https://github.com/thiyangt/plotnine
 https://github.com/thiyangt/python_quarto
 
 Slides: https://thiyanga-spatiotemporal.netlify.app/posts/quarto/1_intro.html#/title-slide
+
+Slides: https://thiyangt.github.io/datavisualisation/week2/#/pioneers
