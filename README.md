@@ -6,3 +6,4 @@ https://tstdataviz.netlify.app/slides/data_visualization_2022
 
 https://github.com/thiyangt/plotnine
 
+https://github.com/thiyangt/python_quarto
